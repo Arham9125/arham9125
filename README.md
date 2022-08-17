@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/arham9125" target="blank"><img src="https://img.shields.io/twitter/follow/arham9125?logo=twitter&style=for-the-badge" alt="arham9125" /></a> </p>
 
-- 🌱 I’m currently learning **Flutter(Processing), Python**
+- 🌱 I’m currently learning  **Python**
 
 - 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01b26bc6c6a14a7703](https://www.upwork.com/freelancers/~01b26bc6c6a14a7703)
 
