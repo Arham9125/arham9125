@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Muhammad Arham Rafiq, I am an aspiring Developer with 1 years of programming experience, split between contractual and full time employment. I am predominantly selftaught. I'm studing a Computer Science from the University Of the PAF KIET Karachi, Pakistan since 2022. I am currently building an interesting portofolio filled with a great range of projects to prove my competency as a developer to attract recruiters and clients. One of my bigggest aspirations is to work for a well known companies.</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Arham Rafiq, I am an aspiring Developer with 4 years of programming experience, split between contractual and full time employment. I am predominantly selftaught. I'm studing a Computer Science from the University Of the PAF KIET Karachi, Pakistan since 2022. I am currently building an interesting portofolio filled with a great range of projects to prove my competency as a developer to attract recruiters and clients. One of my bigggest aspirations is to work for a well known companies.</h1>
 <h3 align="center">A passionate Mobile Application developer from Pakistan</h3>
 <img align= "right" alt="Coding" width="400" src = "https://miro.medium.com/max/1272/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
