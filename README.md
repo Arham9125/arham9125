@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning  **Python**
 
-- 👨‍💻 All of my projects are available at [https://www.upwork.com/freelancers/~01b26bc6c6a14a7703](https://www.upwork.com/freelancers/~01b26bc6c6a14a7703)
+- 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/arham-khan-9031b41b0/)
 
 - 💬 Ask me about **Programming**
 
